@@ -4,7 +4,7 @@
 Copyright (c) 
 All rights reserved.
 Project name：Quadcopter control system
-Author：Chu Honglin, Hu Yuhao
+Author：Honglin Chu,  Yuhao, Hu
 Version：1.0
                                      
       _____                                        __    
