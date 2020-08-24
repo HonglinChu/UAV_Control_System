@@ -1,9 +1,8 @@
 # Commodore
 
 ```
-Copyright (c) 
-All rights reserved.
-Project name：Quadcopter control system
+Independent research and development
+Project：UAV_Control_System
 Author：Honglin Chu,  Yuhao, Hu
 Version：1.0
                                      
