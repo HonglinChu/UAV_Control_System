@@ -1,8 +1,5 @@
 # Commodore
 
-![img](./img/四轴项目.png)
-
-
 ```
 Copyright (c) 
 All rights reserved.
@@ -20,6 +17,8 @@ Version：1.0
                                                                                                                 
 Date:2016.11
 ```
+![img](./img/四轴项目.png)
+
 ## Description
 
 1 https://www.bilibili.com/video/BV1KW411N7hR
