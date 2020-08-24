@@ -17,7 +17,11 @@ Version：1.0
                                                                                                                 
 Date:2016.11
 ```
+## Hardware
 ![img](./img/四轴项目.png)
+
+## Software
+![img](./img/系统初始化.png)
 
 ## Description
 
