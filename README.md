@@ -1,6 +1,5 @@
 # Commodore
-<div align=center>
-![img](./img/四轴项目.png)
+<div align=center>![img](./img/四轴项目.png)
 
 ```
 Copyright (c) 
